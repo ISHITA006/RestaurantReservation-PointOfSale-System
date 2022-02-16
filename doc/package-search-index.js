@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"cz2002_assignment","l":"databasescanner"},{"m":"cz2002_assignment","l":"entities"},{"m":"cz2002_assignment","l":"exceptionhandler"},{"m":"cz2002_assignment","l":"mainapplicationdriver"},{"m":"cz2002_assignment","l":"manager"},{"m":"cz2002_assignment","l":"userinterface"}];updateSearchResults();
